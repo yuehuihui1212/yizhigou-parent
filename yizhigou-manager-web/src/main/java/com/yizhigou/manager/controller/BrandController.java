@@ -24,6 +24,7 @@ public class BrandController {
     @Reference
     private BrandService brandService;
 
+    //查询所有的品牌
     @RequestMapping("/findAll")
     public List<TbBrand> findAll(){
         return brandService.getList();
