@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FUSUsageTrigger">
+    <session id="1443923817">
+      <usages-collector id="statistics.spring.core.usages.trigger">
+        <counts>
+          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/casclient-demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient-demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient-demo3" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-dao" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-user-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/yizhigou-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/fastDFSdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/yizhigou-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDataRedisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/yizhigou-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/yizhigou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/springjms-producer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://activemq.apache.org/schema/core" location="D:/spring-jms-4.2.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

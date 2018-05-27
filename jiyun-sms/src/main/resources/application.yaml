@@ -1,0 +1,9 @@
+server:
+  port: 9111
+spring:
+  activemq:
+    broker-url: tcp://192.168.177.128:61616
+accessKeyId: LTAI4RY5kP8daUKH
+accessKeySecret: WjGQGCWMFiMGWCAqgEu66rbn9W9hWw
+logging:
+  level: info

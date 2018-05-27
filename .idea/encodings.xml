@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringDataRedisDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/casclient-demo1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/casclient-demo2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/casclient-demo3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastDFSdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/freemarkerdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiyun-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jmsDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDataSolr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springjms-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springjms-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-cart-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-order-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-page-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-page-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-page-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-pay-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-sellergoods-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-sellergoods-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-shop-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-solr-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-user-web" charset="UTF-8" />
+  </component>
+</project>

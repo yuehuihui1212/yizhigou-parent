@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="casclient-demo1" />
+        <module name="casclient-demo2" />
+        <module name="casclient-demo3" />
+        <module name="fastDFSdemo" />
+        <module name="freemarkerdemo" />
+        <module name="jiyun-sms" />
+        <module name="jmsDemo" />
+        <module name="spring-security-demo" />
+        <module name="springbootDemo" />
+        <module name="SpringDataRedisDemo" />
+        <module name="springDataSolr" />
+        <module name="springjms-consumer" />
+        <module name="springjms-producer" />
+        <module name="yizhigou-cart-interface" />
+        <module name="yizhigou-cart-service" />
+        <module name="yizhigou-cart-web" />
+        <module name="yizhigou-common" />
+        <module name="yizhigou-content-interface" />
+        <module name="yizhigou-content-service" />
+        <module name="yizhigou-dao" />
+        <module name="yizhigou-manager-web" />
+        <module name="yizhigou-order-interface" />
+        <module name="yizhigou-order-service" />
+        <module name="yizhigou-page-interface" />
+        <module name="yizhigou-page-service" />
+        <module name="yizhigou-page-web" />
+        <module name="yizhigou-pay-interface" />
+        <module name="yizhigou-pay-service" />
+        <module name="yizhigou-pojo" />
+        <module name="yizhigou-portal-web" />
+        <module name="yizhigou-search-interface" />
+        <module name="yizhigou-search-service" />
+        <module name="yizhigou-search-web" />
+        <module name="yizhigou-sellergoods-interface" />
+        <module name="yizhigou-sellergoods-service" />
+        <module name="yizhigou-shop-web" />
+        <module name="yizhigou-solr-util" />
+        <module name="yizhigou-user-interface" />
+        <module name="yizhigou-user-service" />
+        <module name="yizhigou-user-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
