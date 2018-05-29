@@ -59,4 +59,10 @@ public interface SeckillOrderService {
 	public PageResult findPage(TbSeckillOrder seckillOrder, int pageNum, int pageSize);
 
 	public void submitOrder(Long seckillId,String userId);
+
+	public TbSeckillOrder searchOrderFromRedisByUserId(String userId);
+
+	public void saveOrderFromRedisToDb(String userId, Long orderId, String transactionId);
+
+	public void deleteOrderFromRedis(String userId, Long orderId);
 }

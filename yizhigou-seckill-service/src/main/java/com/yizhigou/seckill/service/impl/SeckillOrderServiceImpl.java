@@ -157,4 +157,38 @@ public class SeckillOrderServiceImpl implements SeckillOrderService {
 		redisTemplate.boundHashOps("seckillOrder").put(userId,order);
 	}
 
+	@Override
+	public TbSeckillOrder searchOrderFromRedisByUserId(String userId) {
+		return (TbSeckillOrder) redisTemplate.boundHashOps("seckillOrder").get(userId);
+	}
+
+	@Override
+	public void saveOrderFromRedisToDb(String userId, Long orderId, String transactionId) {
+		TbSeckillOrder seckillOrder = (TbSeckillOrder) redisTemplate.boundHashOps("seckillOrder").get(userId);
+		if (seckillOrder == null) {
+			throw new RuntimeException("订单不存在");
+		}
+		if (seckillOrder.getId().longValue()!=orderId.longValue()) {
+			throw new RuntimeException("订单号不匹配");
+		}
+		seckillOrder.setTransactionId(transactionId);
+		seckillOrder.setPayTime(new Date());
+		seckillOrder.setStatus("1");
+		seckillOrderMapper.insert(seckillOrder);
+		redisTemplate.boundHashOps("seckillOrder").delete(userId);
+	}
+
+	@Override
+	public void deleteOrderFromRedis(String userId, Long orderId) {
+		TbSeckillOrder seckillOrder = (TbSeckillOrder) redisTemplate.boundHashOps("seckillOrder").get(userId);
+		if(seckillOrder!=null && seckillOrder.getSeckillId().longValue()==orderId.longValue()){
+			redisTemplate.boundHashOps("seckillOrder").delete(userId);
+			TbSeckillGoods seckillGoods= (TbSeckillGoods) redisTemplate.boundHashOps("seckillGoods").get(seckillOrder.getSeckillId());
+			if(seckillGoods!=null){
+				seckillGoods.setStockCount(seckillGoods.getStockCount()+1);
+				redisTemplate.boundHashOps("seckillGoods").put(seckillOrder.getSeckillId(),seckillGoods);
+			}
+		}
+	}
+
 }
