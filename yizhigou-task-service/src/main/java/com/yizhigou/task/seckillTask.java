@@ -18,6 +18,7 @@ import java.util.List;
  * @Date: created in 11:44 2018/5/30
  * @Modified By:
  **/
+//1111111
 @Component
 //轮询机制改变
 public class seckillTask {
