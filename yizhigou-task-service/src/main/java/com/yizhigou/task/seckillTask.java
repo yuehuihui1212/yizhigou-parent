@@ -19,6 +19,7 @@ import java.util.List;
  * @Modified By:
  **/
 @Component
+//轮询
 public class seckillTask {
     @Autowired
     private RedisTemplate redisTemplate;
