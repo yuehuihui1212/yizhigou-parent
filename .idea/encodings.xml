@@ -34,10 +34,14 @@
     <file url="file://$PROJECT_DIR$/yizhigou-search-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-search-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-seckill-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-seckill-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-seckill-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-sellergoods-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-sellergoods-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-shop-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-solr-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yizhigou-task-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-user-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-user-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yizhigou-user-web" charset="UTF-8" />

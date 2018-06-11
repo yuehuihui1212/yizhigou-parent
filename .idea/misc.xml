@@ -27,8 +27,11 @@
     <file type="web" url="file://$PROJECT_DIR$/yizhigou-portal-web" />
     <file type="web" url="file://$PROJECT_DIR$/yizhigou-search-service" />
     <file type="web" url="file://$PROJECT_DIR$/yizhigou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-seckill-web" />
     <file type="web" url="file://$PROJECT_DIR$/yizhigou-sellergoods-service" />
     <file type="web" url="file://$PROJECT_DIR$/yizhigou-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/yizhigou-task-service" />
     <file type="web" url="file://$PROJECT_DIR$/yizhigou-user-service" />
     <file type="web" url="file://$PROJECT_DIR$/yizhigou-user-web" />
   </component>

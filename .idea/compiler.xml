@@ -39,10 +39,14 @@
         <module name="yizhigou-search-interface" />
         <module name="yizhigou-search-service" />
         <module name="yizhigou-search-web" />
+        <module name="yizhigou-seckill-interface" />
+        <module name="yizhigou-seckill-service" />
+        <module name="yizhigou-seckill-web" />
         <module name="yizhigou-sellergoods-interface" />
         <module name="yizhigou-sellergoods-service" />
         <module name="yizhigou-shop-web" />
         <module name="yizhigou-solr-util" />
+        <module name="yizhigou-task-service" />
         <module name="yizhigou-user-interface" />
         <module name="yizhigou-user-service" />
         <module name="yizhigou-user-web" />

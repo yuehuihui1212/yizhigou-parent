@@ -49,6 +49,10 @@
         <module>yizhigou-order-service</module>
         <module>yizhigou-pay-interface</module>
         <module>yizhigou-pay-service</module>
+        <module>yizhigou-seckill-interface</module>
+        <module>yizhigou-seckill-service</module>
+        <module>yizhigou-seckill-web</module>
+        <module>yizhigou-task-service</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>
